@@ -1,4 +1,4 @@
-#Thu Nov 14 19:27:58 EST 2019
-base.0=C\:\\Users\\Xan Fraser\\Documents\\Android studio\\GamesOnTheBus-master\\GamesOnTheBus\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+#Fri Nov 15 11:01:18 EST 2019
+base.0=C\:\\Users\\xf4gn04\\Documents\\Android studio files\\GamesOnTheBus\\GamesOnTheBus\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

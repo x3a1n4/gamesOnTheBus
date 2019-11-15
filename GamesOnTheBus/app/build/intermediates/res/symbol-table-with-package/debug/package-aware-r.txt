@@ -1002,6 +1002,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable ic_launcher_background
+drawable ic_launcher_background_paper
 drawable ic_launcher_foreground
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
@@ -1021,6 +1022,8 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable paper_texture
+drawable rounded_button
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -1092,7 +1095,6 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fab
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1105,6 +1107,7 @@ id group_divider
 id groups
 id home
 id homeAsUp
+id hostGameButton
 id icon
 id icon_group
 id ifRoom
@@ -1113,6 +1116,7 @@ id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id joinGameButton
 id labeled
 id largeLabel
 id left
@@ -1206,8 +1210,8 @@ id textinput_helper_text
 id time
 id title
 id titleDividerNoCustom
+id titleText
 id title_template
-id toolbar
 id top
 id topPanel
 id touch_outside

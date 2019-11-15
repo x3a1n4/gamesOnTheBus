@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Thu Nov 14 19:27:59 EST 2019
+#Fri Nov 15 11:01:18 EST 2019
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\Xan Fraser\\Documents\\Android studio\\GamesOnTheBus-master\\GamesOnTheBus\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.base=C\:\\Users\\xf4gn04\\Documents\\Android studio files\\GamesOnTheBus\\GamesOnTheBus\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=classes.dex
 0.set=DEX
 count=1
