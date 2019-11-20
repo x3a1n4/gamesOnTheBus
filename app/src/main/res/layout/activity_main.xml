@@ -6,6 +6,24 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <include layout="@layout/content_main" />
+
+    <include
+        layout="@layout/content_main"
+        android:id="@+id/id1"
+        android:visibility="visible"/>
+
+    <include
+        layout="@layout/join_game_page"
+        android:id="@+id/id2"
+        android:visibility="gone"/>
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@drawable/home" />
 
 </android.support.design.widget.CoordinatorLayout>
