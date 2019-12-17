@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/paper_texture"
+    android:backgroundTintMode="src_atop"
+    android:backgroundTint="#99ffffff">
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </Space>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_title"
+        android:text="Waiting for everyone"
+        android:layout_gravity="center"/>
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </Space>
+
+    <!--TODO: make it obvious how many people have joined -->
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Game"
+        android:background="@drawable/rounded_button"
+        android:padding="20dp"
+        android:layout_gravity="center"/>
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </Space>
+
+</LinearLayout>
